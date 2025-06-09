@@ -2,7 +2,7 @@ import base64
 from typing import List, Tuple
 
 from flask import Flask, render_template, request, jsonify
-import matplotlib        # use non-GUI backend for servers
+import matplotlib        
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import networkx as nx
