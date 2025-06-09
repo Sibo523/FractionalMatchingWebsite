@@ -1,4 +1,3 @@
-# app.py
 import base64
 from typing import List, Tuple
 

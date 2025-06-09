@@ -1,4 +1,3 @@
-// static/main.js
 (function () {
   "use strict";
 
