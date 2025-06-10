@@ -1,4 +1,3 @@
 Flask>=3.0.0
 matplotlib
-# pull NetworkX with the fractional-matching extension
 networkx @ git+https://github.com/Sibo523/lemur_networkx.git#egg=networkx
