@@ -134,7 +134,6 @@ def solve():
     return jsonify({"weights": weights, "log": log_txt})
 
 # ─────────────────────────────────────────────────────────────────────────────
-# app.py  – put this near your other routes
 @app.get("/about")
 def about():
     """Simple `About` page."""
